@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MauroFitermann
-- 👀 I’m interested in ... jobs, personal projects
-- 🌱 I’m currently learning ... NoSQL database management
+- 👀 I’m interested in ... jobs, internet sociology
+- 🌱 I’m currently learning ... Cloud Storage management, Front End development
 - 💞️ I’m looking to collaborate on ... w/e 
 - 📫 How to reach me ... maurofitermann@gmail.com for formal inquiries, else @maufiter on Instagram.
 
