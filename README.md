@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MauroFitermann
-- 👀 I’m interested in ... jobs, internet sociology
-- 🌱 I’m currently learning ... XAMPP, Web API development
-- 💞️ I’m looking to collaborate on ... w/e 
+- 👀 I’m interested in ... work, social media phenomena
+- 🌱 I’m currently learning ... LAMPP, Web API development
+- 💞️ I’m looking to collaborate on ... small, community-focused projects in my downtime.
 - 📫 How to reach me ... maurofitermann@gmail.com for formal inquiries, else @maurofitermann on Instagram.
 
 <!---
