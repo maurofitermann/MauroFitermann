@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MauroFitermann
 - 👀 I’m interested in ... work, social media phenomena
-- 🌱 I’m currently learning ... LAMPP, Web API development
-- 💞️ I’m looking to collaborate on ... small, community-focused projects in my downtime.
+- 🌱 I’m currently learning ... Python TUI and GUI apps with Textual
+- 💞️ I’m looking to collaborate on ... anything, ideally with fellow Uruguayan coders! Contact me.
 - 📫 How to reach me ... maurofitermann@gmail.com for formal inquiries, else @maurofitermann on Instagram.
 
 <!---
