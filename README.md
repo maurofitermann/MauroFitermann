@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MauroFitermann
 - 👀 I’m interested in ... work, social media phenomena
-- 🌱 I’m currently learning ... Python TUI and GUI apps with Textual
+- 🌱 I’m currently learning ... how to self-host and configure Wordpress sites.
 - 💞️ I’m looking to collaborate on ... anything, ideally with fellow Uruguayan coders! Contact me.
 - 📫 How to reach me ... maurofitermann@gmail.com for formal inquiries, else @maurofitermann on Instagram.
 
