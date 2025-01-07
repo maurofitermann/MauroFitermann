@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @MauroFitermann
-- 👀 I’m interested in ... work, social media phenomena
-- 🌱 I’m currently learning ... how to self-host and configure Wordpress sites.
-- 💞️ I’m looking to collaborate on ... anything, ideally with fellow Uruguayan coders! Contact me.
+- 👀 I’m interested in ... internet culture
+- 🌱 I’m currently learning ... how to set up blogs with GH Pages, GH Actions, and Jekyll
+- 💞️ I’m looking to collaborate on ... anything Open. Feel free to reach out!
 - 📫 How to reach me ... maurofitermann@gmail.com for formal inquiries, else @maurofitermann on Instagram.
 
 <!---
