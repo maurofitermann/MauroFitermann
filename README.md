@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @MauroFitermann
 - 👀 I’m interested in ... internet culture
-- 🌱 I’m currently learning ... how to set up blogs with GH Pages, GH Actions, and Jekyll
+- 🌱 I’m currently learning ... how to set up blogs with 11ty
 - 💞️ I’m looking to collaborate on ... anything Open. Feel free to reach out!
 - 📫 How to reach me ... maurofitermann@gmail.com for formal inquiries, else @maurofitermann on Instagram.
 
